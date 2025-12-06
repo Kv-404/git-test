@@ -1,3 +1,7 @@
 hello world
 second line
+<<<<<<< HEAD
 main branch edit
+=======
+feature branch edit
+>>>>>>> feature-branch
